@@ -1,3 +1,4 @@
 docker build -t painteau/colodocker:latest .
 docker login --username MYUSERNAME
 docker push painteau/colodocker:latest
+fini !
